@@ -22,11 +22,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science and Engineering**  
+- 🎓 **B.E. in Computer Science and Engineering Graduate**  
   from *Jain College of Engineering and Research, Belagavi*
 - 💼 Completed internships at **CoachEd**, **Pranaksh Technologies**, and **Robowaves**
-- 🌱 Focused on building **Full Stack Web Applications** using Python (Django), Node.js, and SQL
-- 🛠️ Tech Stack: **Python, Django, JavaScript, Node.js, Express.js, MongoDB, SQL, HTML, CSS**
+- 🌱 Focused on building **Full Stack Web Applications** using Python (Django), and SQL
+- 🛠️ Tech Stack: **Python, Django, JavaScript, SQL, HTML, CSS**
 - 🔍 Looking for roles as a **Full Stack Developer** or **Python Developer**
 - 📫 Reach me at: `chetankudal18@gmail.com`
 
@@ -35,7 +35,7 @@
 ### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github" />
 </p>
 
 ---
