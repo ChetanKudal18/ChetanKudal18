@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.E. in Computer Science and Engineering Graduate**  
+- 🎓 **B.E. in Computer Science and Engineering**  
   from *Jain College of Engineering and Research, Belagavi*
 - 💼 Completed internships at **CoachEd**, **Pranaksh Technologies**, and **Robowaves**
 - 🌱 Focused on building **Full Stack Web Applications** using Python (Django), and SQL
@@ -44,10 +44,12 @@
 
 <div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 15px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanKudal18&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanKudal18&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChetanKudal18&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=7200" width="48%" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanKudal18&layout=compact&theme=tokyonight&langs_count=8&hide=css,scss,html&cache_seconds=7200" width="48%" alt="Top Languages" />
 
 </div>
+
 
 ---
 
